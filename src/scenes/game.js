@@ -1,4 +1,4 @@
-import k from "../kaplayCtx";
+import k from "../kaplayCtx.js";
 import { makeSonic } from "../entities/sonic";
 import { makeMotobug } from "../entities/motobug";
 import { makeRing } from "../entities/ring";

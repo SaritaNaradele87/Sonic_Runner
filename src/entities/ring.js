@@ -1,4 +1,4 @@
-import k from "../kaplayCtx";
+import k from "../kaplayCtx.js";
 
 export function makeRing(pos) {
   return k.add([

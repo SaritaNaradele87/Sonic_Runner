@@ -1,6 +1,6 @@
-import k from "../kaplayCtx";
+import k from "../kaplayCtx.js";
 import { makeRing } from "../entities/ring";             
-import { makeSonic } from "../entities/sonic";
+import { makeSonic } from "../entities/sonic.js";
 
 export default function mainMenu() {
   if (!k.getData("best-score")) k.setData("best-score", 0);
