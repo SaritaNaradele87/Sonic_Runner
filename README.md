@@ -3,7 +3,6 @@
 
 ### ✅ `README.md` for Your Sonic Runner Game
 
-```markdown
 # 🌀 Sonic Runner - JavaScript Game
 
 A fast-paced side-scrolling platformer inspired by Sonic, built using [Kaplay](https://kaplay.dev/) — a JavaScript game development library similar to Kaboom.js. Collect rings, avoid enemies, and survive as long as you can!
@@ -119,12 +118,6 @@ export default defineConfig({
 
 ---
 
-## 📜 License
-
-This project is for educational and portfolio use.
-Please do not use Sonic branding for commercial purposes.
-
----
 
 ## 💡 Future Improvements
 
